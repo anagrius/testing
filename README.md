@@ -1,5 +1,7 @@
 # testing
 
+This is a supporting package for the [Heroku Integration](google.com)
+
 
 ## Screenshots
 
